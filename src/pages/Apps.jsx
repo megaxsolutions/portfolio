@@ -1,8 +1,7 @@
 import Navbar from "../components/Navbar";
 import rescue from '../assets/location.webp'
-import pic from '../assets/pic.png'
-import ikea from '../assets/ikea.png'
-import stonino from '../assets/stonino.png'
+import pic from '../assets/omnichannel.webp'
+import stonino from '../assets/school.webp'
 import Footer from "../components/Footer";
 import { motion } from "framer-motion";
 
